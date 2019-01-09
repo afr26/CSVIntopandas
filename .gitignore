@@ -130,5 +130,6 @@ pyvenv.cfg
 pip-selfcheck.json
 *.csv
 *.xml
+*.xlsx
 
 # End of https://www.gitignore.io/api/python,jupyternotebook
